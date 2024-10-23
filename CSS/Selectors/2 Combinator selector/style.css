@@ -1,0 +1,35 @@
+/* article+section>aside>p{
+    color: red;;
+}
+
+article+section+section>main{
+    color: blue;
+} */
+
+/* article p{
+    color: red;
+} */
+
+/* article .flex{
+    color: red;
+} */
+
+/* article>p{
+    color: red;
+} */
+
+/* article>main>p{
+    color: red;
+} */
+
+/* article+div{
+    color: red;
+}
+
+article+div+span{
+    color: green ;
+} */
+
+article ~ p{
+    color: brown;
+}

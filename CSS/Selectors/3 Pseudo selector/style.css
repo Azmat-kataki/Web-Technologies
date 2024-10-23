@@ -1,0 +1,53 @@
+/* article > :first-child{
+    color: red;
+}
+
+article :last-child{
+    color: aqua;
+}
+
+article :nth-child(3){
+    color: blue;
+} */
+
+/* article p:first-of-type{
+    color: red;
+}
+
+article p:last-of-type{
+    color: blue;
+}
+
+article>span:first-of-type{
+    color: yellow;
+}
+
+article>span:last-of-type{
+    color: yellow;
+}
+
+article span:nth-last-of-type(2){
+    color: orange;
+}
+
+article p:nth-of-type(2){
+    color: pink;
+} */
+
+article p:first-child{
+    color: red;
+}
+
+article p:last-of-type{
+    color: brown;
+}
+article span:first-of-type{
+    color: green;
+}
+article span:last-of-type{
+    color: blue;
+}
+
+article p:nth-last-of-type(2){
+    color: aqua;
+}
